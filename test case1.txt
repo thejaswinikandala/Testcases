@@ -1,0 +1,56 @@
+No       Preconditons                 Scenario Name                 Action              Test data                   Expected result
+
+ 
+1       register form screen should    online course registration    enter:
+          be visible                    form                          1.Name              valid name                 submit successfully
+                                                                      2.adress            valid adress
+                                                                      3.contact no        valid contact no
+                                                                      4.Email             valid email
+                                                                      5.slect technology
+                                                                      6.select course
+
+
+
+
+2.       register form screen should   online course registration               enter:
+            be visible                  form                              1.name               valid name                 error message:not
+                                                                          2.adress             valid adress
+                                                                          3.contact no         invalid contact no           submit
+                                                                          4.email              invalid email
+                                                                          5.select technology
+                                                                          6.select course
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

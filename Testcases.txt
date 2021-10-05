@@ -1,0 +1,25 @@
+
+No       Preconditions                Scenario Name            Action                    Test data                 Expected    result                  
+
+
+                   
+                                           HR Issue
+                                           Registration
+1       login screen should be visible       login        enter: 1.Employee ID/Name        valid all detatils        sent succesfully
+
+                                                                 2.Email id                                 
+                                                                 3.Dept
+                                                                 4. select location
+                                                                 5.Reporting Manager
+                                                                 6.Issue
+                                                                 click send button
+
+                                           HR Issue Registration
+2.login screen should be visible              login             enter:
+                                                                 1.EmployeeID/Name         Valid  Employee ID              error msg: not sent
+                                                                 2.Email ID                invalid Email ID  
+                                                                 3.Dept                     valid Dept                
+                                                                 4.location                 invalid location
+                                                                 5.Reporting manager        valid             
+                                                                 6.Issue
+                                                                 click send button
